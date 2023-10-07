@@ -3,7 +3,7 @@
 
 | Facebook  | X | Instagram |
 | ------------- | ------------- | ------------- |
-| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook-500.png)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x-500.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram-500.png)  |
+| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
 
 <!--
 
