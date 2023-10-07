@@ -6,7 +6,7 @@
 
 | Facebook  | ----X---- | Instagram |
 
-| Instagram | Instagram | Instagram |
+
 | :---: | :---: | :---: |
 | <a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png"/></a> | <a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x.png"/></a> | <a href="https://www.instagram.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png"/></a> |
 
