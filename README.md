@@ -3,7 +3,7 @@
 
 | Facebook  | X | Instagram |
 | ------------- | ------------- | ------------- |
-| ![1](https://img.europapress.es/fotoweb/fotonoticia_20110204111345_640.jpg)  | ![2](https://img.europapress.es/fotoweb/fotonoticia_20110204111345_640.jpg) | ![3](https://img.europapress.es/fotoweb/fotonoticia_20110204111345_640.jpg)  |
+| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook-500.png)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x-500.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram-500.png)  |
 
 <!--
 
