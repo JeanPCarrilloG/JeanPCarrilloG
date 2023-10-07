@@ -3,12 +3,12 @@
 
 | Facebook  | X | Instagram |
 | ------------- | ------------- | ------------- |
-| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png)(https://github.com/)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
+| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
 
 
 | Facebook  | X | Instagram |
 | ------------- | ------------- | ------------- |
-| <a href="https://developer.mozilla.org/"  ><img src="mdn-logo-sm.png" alt="MDN"/></a> | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
+| <a href="https://github.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png" /></a> | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
 
 <!--
 
