@@ -1,14 +1,8 @@
 <h1 align="center" style="background-color:red;">Bienvenidos</h1>
 
-
-| Facebook  | X | Instagram |
+| Facebook  |     X     | Instagram |
 | ------------- | ------------- | ------------- |
-| ![1](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png)  | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
-
-
-| Facebook  | X | Instagram |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png" /></a> | ![2](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-twitterx-600.png) | ![3](https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png)  |
+| <a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png"/></a> | <a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x.png"/></a> | <a href="https://www.instagram.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png"/></a> |
 
 <!--
 
