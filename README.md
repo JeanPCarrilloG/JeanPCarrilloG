@@ -8,12 +8,6 @@
 </h1>
 
 
-<html>
-    <body>
-        <div class="fb-comments" data-href="https://www.facebook.com/profile.php?id=61552113565693" data-width="" data-numposts="5"></div>
-    </body>
-</html>
-
 <!--
 
 **JeanPCarrilloG/JeanPCarrilloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
