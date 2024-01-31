@@ -1,9 +1,9 @@
 <h1 align="center" >☆ Bienvenidos</h1>
 <h1 align="center" >
 
-<a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png"/></a>
-<a href="https://www.facebook.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x.png"/></a>
-<a href="https://www.instagram.com/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png"/></a>
+<a href="https://www.facebook.com/jeanpcarrillog/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-facebook.png"/></a>
+<a href="https://twitter.com/JeanPCarrilloG/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-x.png"/></a>
+<a href="https://www.instagram.com/jeanpcarrillog/"  ><img src="https://raw.githubusercontent.com/JeanPCarrilloG/JeanPCarrilloG/main/ICONS/icons8-instagram.png"/></a>
 
 </h1>
 
